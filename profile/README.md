@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ ∞ ⋆ Universal Editor 203 ⋆ ∞ ✨
+# ✨ ∞ ⋆ Foxor Editor 203 ⋆ ∞ ✨
 
 ```
         ✦ ˚ · . ⋆ ˚ · . ✦
